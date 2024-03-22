@@ -5,7 +5,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 - You can reach me through: <a href="https://lbejar.dev">Website</a>   |  <a href="lbejar1124@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/lisset-bejar/">
  <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 - Open to interview
-- Currently working as an Intern at<a href="https://www.bayvalleytech.com/">Bay Valley Tech</a>
+- Currently working as an Intern at<a href="https://www.bayvalleytech.com/"> Bay Valley Tech</a>
 - **NOTE** : You can **fork** and **contribute** to any of the projects 
  
 ### My Recent Projects
