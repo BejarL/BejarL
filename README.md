@@ -22,7 +22,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  
  [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BejarL&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Lisset Bejar's current streak](https://github-readme-streak-stats-blush.vercel.app?user=BejarL&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Lisset Bejar's current streak](https://streak-stats.demolab.com/?BejarL=DenverCoder1)](https://git.io/streak-stats)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
