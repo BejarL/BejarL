@@ -10,7 +10,8 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  
 ### My Recent Projects
 
- 1. [Business Communication App](https://emanate-demo.web.app/login)
+ 1. [Emanate - Business Communication App](https://emanate-demo.web.app/login)
+ 1. [Quanta - Time Tracker App](https://github.com/BejarL/vite-vikings-quanta-web-app)
 
 
 ### **Languages and Tools:**  
